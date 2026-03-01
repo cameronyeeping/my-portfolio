@@ -18,9 +18,9 @@ reimplementing it to fit natively into the **Nerfstudio** framework. By refactor
 modular architecture, we enabled better integration with standardized NeRF pipelines and developed an interactive 3D 
 editor to manipulate point primitives in real-time.
 
-![Training outputs](/public/main_plots_245000.png)
+![Training outputs](/main_plots_245000.png)
 _Figure 1: Model plots generated during training_
-![output gif](/public/papr_animation.gif)
+![output gif](/papr_animation.gif)
 _Figure 2: A Point cloud visualization generated during training_
 ## Technical Accomplishments
 
