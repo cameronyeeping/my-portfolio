@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/cameronyeeping",
   desc: "Computer Science student at SFU interested in Deep Learning and Graphics",
   title: "Cameron Yee-Ping",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "cover.jpeg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
